@@ -1,5 +1,5 @@
 
-                                         Exploring the Impact of COVID-19: An Analytical Report
+                              Exploring the Impact of COVID-19: An Analytical Report
 
                                             INTRODUCTION>>>
 
