@@ -6,7 +6,7 @@
 I embarked on a project to analyze COVID-19 data, aiming to gain insights into the pandemic's impact globally. The dataset includes information on COVID-19 cases, deaths, vaccinations, and population demographics across various locations and time periods. By leveraging SQL queries and data analysis techniques, I aimed to uncover trends, patterns, and correlations within the data to inform public health strategies and decision-making processes.
 
 
-                                          PROBLEM QUESTIONS AND ANALYSIS>>>
+                                    PROBLEM QUESTIONS AND ANALYSIS>>>
 
 TOTAL CASES VS TOTAL DEATHS:
 
